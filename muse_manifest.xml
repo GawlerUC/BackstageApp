@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="backstage.gawleruniting.org.au" resolutions="1x" timestamp="1479828165588">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="backstage.gawleruniting.org.au" resolutions="1x" timestamp="1479828561593">
   <folder name="css">
     <file name="site_global.css" crc="3866580668"/>
     <file name="master_master.css" crc="147629848" ref="openlife:sermon:last-weeks-br:events:discipleship:bible-readings"/>
@@ -6,7 +6,7 @@
     <file name="sermon.css" crc="484049162" ref="sermon"/>
     <file name="last-weeks-br.css" crc="4029953683" ref="last-weeks-br"/>
     <file name="events.css" crc="133042373" ref="events"/>
-    <file name="index.css" crc="78438061" ref="index"/>
+    <file name="index.css" crc="3791718839" ref="index"/>
     <file name="discipleship.css" crc="3933572492" ref="discipleship"/>
     <file name="bible-readings.css" crc="362045219" ref="bible-readings"/>
   </folder>
@@ -42,7 +42,7 @@
     <file name="pasted-svg-109665x1093.svg" crc="4186153669" seo="true" ref="index"/>
     <file name="pasted svg 109665x109_poster_3.png" crc="4204566227" ref="index"/>
   </folder>
-  <file name="index.html" crc="3983037618" seo="true" mt="1479827901875" redirect="true"/>
+  <file name="index.html" crc="4132837978" seo="true" mt="1479828536958" redirect="true"/>
   <file name="bible-readings.html" crc="3759057767" seo="true" mt="1474593387893" redirect="true"/>
   <file name="sermon.html" crc="4020667025" seo="true" mt="1474556908014" redirect="true"/>
   <file name="events.html" crc="349339777" seo="true" mt="1474556908014" redirect="true"/>
