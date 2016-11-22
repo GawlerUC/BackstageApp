@@ -2,13 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://backstage.gawleruniting.org.au/index.html</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://backstage.gawleruniting.org.au/events.html</loc>
-    <lastmod>2016-09-23</lastmod>
+    <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -20,6 +14,12 @@
   </url>
   <url>
     <loc>http://backstage.gawleruniting.org.au/sermon.html</loc>
+    <lastmod>2016-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://backstage.gawleruniting.org.au/events.html</loc>
     <lastmod>2016-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -44,7 +44,25 @@
   </url>
   <url>
     <loc>http://backstage.gawleruniting.org.au/images/pasted-svg-88051x95.svg</loc>
-    <lastmod>2016-11-22</lastmod>
+    <lastmod>2016-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://backstage.gawleruniting.org.au/images/pasted-svg-109665x1092.svg</loc>
+    <lastmod>2016-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://backstage.gawleruniting.org.au/images/pasted-svg-109665x109.svg</loc>
+    <lastmod>2016-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://backstage.gawleruniting.org.au/images/pasted-svg-109665x1093.svg</loc>
+    <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
