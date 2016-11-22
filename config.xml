@@ -66,7 +66,7 @@
 		<preference name="DisallowOverscroll" value="true" />
 		<preference name="LoadingDialog" value="," />
 		<preference name="LoadUrlTimeoutValue" value="null" />
-		<platform name="ios">
+		<platform name="ios"/>
 		<icon src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlresources/icon/ios/icon-50.png" width="50" height="50" />
 		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlresources/splash/ios/Default-667h.png" width="750" height="1334" /> 
 		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlresources/splash/ios/Default-568h@2x~iphone.png" width="640" height="1136" /> 
@@ -77,7 +77,7 @@
 		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlresources/splash/ios/Default-Portrait@2x~ipad.png" width="1536" height="2048" /> 
 		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlresources/splash/ios/Default-Landscape@2x~ipad.png" width="2048" height="1536" /> 
 		</platform>
-		<platform name="android">
+		<platform name="android"/>
 		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-36.png" qualifier="ldpi" />
 		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-48.png" qualifier="mdpi" />
 		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-72.png" qualifier="hdpi" />
