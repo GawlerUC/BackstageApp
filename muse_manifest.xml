@@ -1,18 +1,17 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="backstage.gawleruniting.org.au" resolutions="1x" timestamp="1479838046008">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="backstage.gawleruniting.org.au" resolutions="1x" timestamp="1479871631593">
   <folder name="css">
     <file name="site_global.css" crc="3866580668"/>
-    <file name="master_master.css" crc="4284037342" ref="openlife:sermon:last-weeks-br:events:discipleship:bible-readings"/>
+    <file name="master_master.css" crc="3929397469" ref="openlife:sermon:last-weeks-br:events:discipleship:bible-readings"/>
     <file name="openlife.css" crc="243043366" ref="openlife"/>
-    <file name="sermon.css" crc="217714987" ref="sermon"/>
+    <file name="sermon.css" crc="32874212" ref="sermon"/>
     <file name="last-weeks-br.css" crc="4032397515" ref="last-weeks-br"/>
     <file name="events.css" crc="68454538" ref="events"/>
     <file name="index.css" crc="4130295730" ref="index"/>
     <file name="discipleship.css" crc="475042611" ref="discipleship"/>
     <file name="bible-readings.css" crc="425609227" ref="bible-readings"/>
-    <file name="nomq_preview_master_master.css" crc="3824530138" ref="last-weeks-br:openlife:sermon:bible-readings:events:discipleship"/>
+    <file name="nomq_preview_master_master.css" crc="3824530138" ref="last-weeks-br:openlife:bible-readings:events:discipleship"/>
     <file name="nomq_last-weeks-br.css" crc="3966453275" ref="last-weeks-br"/>
     <file name="nomq_openlife.css" crc="3870667080" ref="openlife"/>
-    <file name="nomq_sermon.css" crc="56510412" ref="sermon"/>
     <file name="nomq_bible-readings.css" crc="4275386614" ref="bible-readings"/>
     <file name="nomq_events.css" crc="3981493180" ref="events"/>
     <file name="nomq_discipleship.css" crc="205620534" ref="discipleship"/>
@@ -29,26 +28,26 @@
     <file name="touchswipe.js" crc="404375771" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br"/>
     <file name="jquery.watch.js" crc="104486786" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br"/>
     <file name="require.js" crc="244322403" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br"/>
-    <file name="jquery.museresponsive.js" crc="4146931122" ref="sermon:events:discipleship:openlife:last-weeks-br:bible-readings"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="events:discipleship:openlife:last-weeks-br:bible-readings"/>
   </folder>
   <folder name="images">
     <file name="logo-transparent.png" crc="4265353680" ref="index:sermon:discipleship"/>
     <file name="pasted-svg-109665x109.svg" crc="3939634654" seo="true" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br"/>
-    <file name="pasted svg 109665x109_poster_.png" crc="4011030576" ref="index"/>
+    <file name="pasted svg 109665x109_poster_.png" crc="4011030576" ref="index:sermon"/>
     <file name="pasted-svg-109665x1092.svg" crc="223350899" seo="true" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br"/>
-    <file name="pasted svg 109665x109_poster_2.png" crc="4111301327" ref="index"/>
+    <file name="pasted svg 109665x109_poster_2.png" crc="4111301327" ref="index:sermon"/>
     <file name="pasted-svg-109665x1093.svg" crc="4186153669" seo="true" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br"/>
-    <file name="pasted svg 109665x109_poster_3.png" crc="4204566227" ref="index"/>
+    <file name="pasted svg 109665x109_poster_3.png" crc="4204566227" ref="index:sermon"/>
     <file name="11393210_10204525766567563_4099118256549237103_n.jpg" crc="335307237" ref="index"/>
     <file name="sayco-slide-16_9.jpg" crc="4220699275" ref="events"/>
     <file name="pasted-svg-88051x95.svg" crc="3780756753" seo="true" ref="discipleship"/>
     <file name="pasted svg 88051x95_poster_.png" crc="151954931" ref="discipleship"/>
-    <file name="blank.gif" crc="4208392903" ref="sermon:events:discipleship:openlife:last-weeks-br:bible-readings"/>
+    <file name="blank.gif" crc="4208392903" ref="events:discipleship:openlife:last-weeks-br:bible-readings"/>
     <file name="sayco-slide-16_9-u8225-fr.jpg" crc="328847142" ref="events"/>
   </folder>
   <file name="index.html" crc="535130388" seo="true" mt="1479837666707" redirect="true"/>
   <file name="bible-readings.html" crc="315123334" seo="true" mt="1479836833673" redirect="true"/>
-  <file name="sermon.html" crc="379402884" seo="true" mt="1479837860775" redirect="true"/>
+  <file name="sermon.html" crc="48095417" seo="true" mt="1479871511498" redirect="true"/>
   <file name="events.html" crc="400939042" seo="true" mt="1479836833667" redirect="true"/>
   <file name="discipleship.html" crc="4180644485" seo="true" mt="1479837911933" redirect="true"/>
   <file name="openlife.html" crc="171413004" seo="true" mt="1479837098295" redirect="true"/>
