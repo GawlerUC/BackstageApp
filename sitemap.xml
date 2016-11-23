@@ -7,6 +7,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://backstage.gawleruniting.org.au/discipleship.html</loc>
+    <lastmod>2016-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://backstage.gawleruniting.org.au/openlife.html</loc>
+    <lastmod>2016-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://backstage.gawleruniting.org.au/keys-to-discipleship.html</loc>
+    <lastmod>2016-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://backstage.gawleruniting.org.au/bible-readings.html</loc>
     <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -25,13 +43,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://backstage.gawleruniting.org.au/openlife.html</loc>
+    <loc>http://backstage.gawleruniting.org.au/bible-questions.html</loc>
     <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://backstage.gawleruniting.org.au/discipleship.html</loc>
+    <loc>http://backstage.gawleruniting.org.au/tithing.html</loc>
     <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -43,13 +61,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://backstage.gawleruniting.org.au/images/pasted-svg-109665x109.svg</loc>
+    <loc>http://backstage.gawleruniting.org.au/evangelism.html</loc>
     <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://backstage.gawleruniting.org.au/images/pasted-svg-109665x1093.svg</loc>
+    <loc>http://backstage.gawleruniting.org.au/images/pasted-svg-109665x109.svg</loc>
     <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,7 +79,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://backstage.gawleruniting.org.au/images/pasted-svg-88051x95.svg</loc>
+    <loc>http://backstage.gawleruniting.org.au/images/pasted-svg-109665x1093.svg</loc>
     <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
