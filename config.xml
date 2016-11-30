@@ -5,9 +5,9 @@
 		id        = "au.org.gawleruniting.backstage"
 		versionCode=""
 		version   = "1.0.0">
-		<name>Backstage		</name>
-		<description>Gawler Uniting Backstage App		</description>
-		<author href="gawleruniting.org.au" email="fopastor@gawleruniting.org.au">Gawler UC		</author>
+		<name>Backstage Gawler		</name>
+		<description>Gawler UC Backstage App		</description>
+		<author href="http://phonegap.com" email="support@phonegap.com">PhoneGap Team		</author>
 		<feature name="http://api.phonegap.com/1.0/battery" />
 		<feature name="http://api.phonegap.com/1.0/camera" />
 		<feature name="http://api.phonegap.com/1.0/contacts" />
@@ -34,8 +34,6 @@
 		<plugin name="cordova-plugin-network-information"  />
 		<plugin name="cordova-plugin-splashscreen"  />
 		<plugin name="cordova-plugin-vibration"  />
-<plugin name="cordova-plugin-whitelist"  />
-		<plugin name="undefined" version="" source="npm"  />
 		<plugin name="undefined" version="" source="npm"  />
 		<preference name="phonegap-version" value="cli-6.3.0" />
 		<preference name="android-build-tool" value="gradle" />
@@ -88,7 +86,6 @@
 		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/screen/android/screen-mdpi-portrait.png" qualifier="port-mdpi" />
 		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/screen/android/screen-hdpi-portrait.png" qualifier="port-hdpi" />
 		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/screen/android/screen-xhdpi-portrait.png" qualifier="port-xhdpi" />
-		<splash src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\SplashscreenAndroid-1280.png" qualifier="" />
 		</platform>
 		<platform name="winphone">
 		<icon src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/icon/windows-phone/icon-173.png" />
