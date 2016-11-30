@@ -4,10 +4,10 @@
 		xmlns:android = "http://schemas.android.com/apk/res/android"
 		id        = "au.org.gawleruniting.backstage"
 		versionCode=""
-		version   = "1.0.0">
-		<name>Backstage		</name>
-		<description>Gawler UC Backstage App		</description>
-		<author href="http://gawleruniting.org.au" email="fopastor@gawleruniting.org.au">Gawler UC		</author>
+		version   = "">
+		<name>Backstage Gawler		</name>
+		<description>Backstage App for Gawler Uniting		</description>
+		<author href="gawleruniting.org.au" email="fopastor@gawleruniting.org.au">Gawler UC		</author>
 		<feature name="http://api.phonegap.com/1.0/battery" />
 		<feature name="http://api.phonegap.com/1.0/camera" />
 		<feature name="http://api.phonegap.com/1.0/contacts" />
@@ -16,50 +16,30 @@
 		<feature name="http://api.phonegap.com/1.0/media" />
 		<feature name="http://api.phonegap.com/1.0/network" />
 		<feature name="http://api.phonegap.com/1.0/notification" />
-		<plugin name="cordova-plugin-battery-status"  />
-		<plugin name="cordova-plugin-camera"  />
-		<plugin name="cordova-plugin-console"  />
-		<plugin name="cordova-plugin-contacts"  />
-		<plugin name="cordova-plugin-device"  />
-		<plugin name="cordova-plugin-device-orientation"  />
-		<plugin name="cordova-plugin-device-motion"  />
-		<plugin name="cordova-plugin-dialogs"  />
-		<plugin name="cordova-plugin-file"  />
-		<plugin name="cordova-plugin-file-transfer"  />
-		<plugin name="cordova-plugin-geolocation"  />
-		<plugin name="cordova-plugin-globalization"  />
-		<plugin name="cordova-plugin-inappbrowser"  />
-		<plugin name="cordova-plugin-media"  />
-		<plugin name="cordova-plugin-media-capture"  />
-		<plugin name="cordova-plugin-network-information"  />
-		<plugin name="cordova-plugin-splashscreen"  />
-		<plugin name="cordova-plugin-vibration"  />
 		<plugin name="undefined" version="" source="npm"  />
-		<preference name="phonegap-version" value="cli-6.3.0" />
+		<preference name="phonegap-version" value="cli-6.1.0" />
 		<preference name="android-build-tool" value="gradle" />
 		<preference name="orientation" value="default" />
 		<preference name="fullscreen" value="true" />
 		<preference name="target-device" value="universal" />
 		<preference name="webviewbounce" value="true" />
 		<preference name="prerendered-icon" value="true" />
-		<preference name="stay-in-webview" value="false" />
-		<preference name="ios-statusbarstyle" value="black-opaque" />
+		<preference name="stay-in-webview" value="true" />
+		<preference name="ios-statusbarstyle" value="default" />
 		<preference name="detect-data-types" value="true" />
-		<preference name="exit-on-suspend" value="false" />
+		<preference name="exit-on-suspend" value="true" />
 		<preference name="show-splash-screen-spinner" value="true" />
 		<preference name="auto-hide-splash-screen" value="true" />
 		<preference name="FadeSplashScreen " value="true" />
 		<preference name="EnableViewportScale" value="false" />
 		<preference name="MediaPlaybackRequiresUserAction" value="false" />
 		<preference name="AllowInlineMediaPlayback" value="true" />
-		<preference name="BackupWebStorage" value="local" />
+		<preference name="BackupWebStorage" value="none" />
 		<preference name="TopActivityIndicator" value="white" />
 		<preference name="KeyboardDisplayRequiresUserAction" value="true" />
 		<preference name="KeyboardShrinksView " value="true" />
 		<preference name="HideKeyboardFormAccessoryBar" value="true" />
 		<preference name="SuppressesIncrementalRendering" value="false" />
-		<preference name="windows-appx-target" value="8.1-win" />
-		<preference name="windows-arch" value="anycpu" />
 		<preference name="windows-identity-name" value="" />
 		<preference name="android-installLocation" value="auto" />
 		<preference name="SplashScreenDelay" value="2000" />
@@ -69,57 +49,11 @@
 		<preference name="LoadingDialog" value="," />
 		<preference name="LoadUrlTimeoutValue" value="null" />
 		<platform name="ios">
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-57.png" width="57" height="57" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-144.png" width="144" height="144" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-72.png" width="72" height="72" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-114.png" width="114" height="114" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-60.png" width="60" height="60" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-120.png" width="120" height="120" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-180.png" width="180" height="180" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-76.png" width="76" height="76" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-152.png" width="152" height="152" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-29.png" width="29" height="29" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-58.png" width="58" height="58" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-87.png" width="87" height="87" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-40.png" width="40" height="40" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-80.png" width="80" height="80" />
-		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/screen/ios/screen-iphone-portrait-568h-2x.png" width="640" height="1136" /> 
-		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/screen/ios/screen-iphone-portrait-2x.png" width="640" height="960" /> 
-		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/screen/ios/screen-iphone-portrait.png" width="320" height="480" /> 
-		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/screen/ios/screen-ipad-portrait.png" width="768" height="1024" /> 
-		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/screen/ios/screen-ipad-landscape.png" width="1024" height="768" /> 
 		</platform>
 		<platform name="android">
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-36.png" qualifier="ldpi" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-48.png" qualifier="mdpi" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-72.png" qualifier="hdpi" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-96.png" qualifier="xhdpi" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-144.png" qualifier="xxhdpi" />
-		<icon src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\GawlerUC Icons\GawlerUC-192.png" qualifier="xxxhdpi" />
-		<splash src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\SplashscreenAndroid-1280.png" qualifier="port-ldpi" />
-		<splash src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\SplashscreenAndroid-1280.png" qualifier="" />
-		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/screen/android/screen-mdpi-portrait.png" qualifier="port-mdpi" />
-		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/screen/android/screen-hdpi-portrait.png" qualifier="port-hdpi" />
-		<splash src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/screen/android/screen-xhdpi-portrait.png" qualifier="port-xhdpi" />
 		<splash src="file://C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\images\SplashscreenAndroid-1280.png" qualifier="" />
 		</platform>
 		<platform name="winphone">
-		<icon src="C:\Users\ashja\OneDrive\Church\Apps\BackstageApp\config.xmlres/icon/windows-phone/icon-173.png" />
 		</platform>
 		 <icon src="icon.png" />
-		<allow-intent href="http://*/*" />
-		<allow-intent href="https://*/*" />
-		<allow-intent href="tel:*" />
-		<allow-intent href="sms:*" />
-		<allow-intent href="mailto:*" />
-		<allow-intent href="geo:*" />
-		<platform name="android" >
-		<allow-intent href="market:*" />
-		</platform>
-		<platform name="ios" >
-		<allow-intent href="itms:*" />
-		</platform>
-		<platform name="ios" >
-		<allow-intent href="itms-apps:*" />
-		</platform>
 		</widget>
