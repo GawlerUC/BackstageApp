@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="backstage.gawleruniting.org.au" resolutions="1x" timestamp="1480487697530">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="backstage.gawleruniting.org.au" resolutions="1x" timestamp="1480488269003">
   <folder name="css">
     <file name="site_global.css" crc="3866580668"/>
     <file name="master_master.css" crc="338000515" ref="openlife:sermon:last-weeks-br:events:discipleship:bible-readings:keys-to-discipleship:evangelism:tithing:bible-questions:featured"/>
@@ -6,7 +6,7 @@
     <file name="sermon.css" crc="442056850" ref="sermon"/>
     <file name="last-weeks-br.css" crc="4119215112" ref="last-weeks-br"/>
     <file name="events.css" crc="102763383" ref="events"/>
-    <file name="index.css" crc="221500666" ref="index"/>
+    <file name="index.css" crc="119435265" ref="index"/>
     <file name="discipleship.css" crc="3920360954" ref="discipleship"/>
     <file name="bible-readings.css" crc="212742038" ref="bible-readings"/>
     <file name="nomq_preview_master_master.css" crc="3824530138" ref="last-weeks-br:openlife:bible-readings:events:discipleship:keys-to-discipleship:evangelism:tithing:bible-questions:sermon:featured"/>
@@ -51,16 +51,16 @@
     <file name="pasted-svg-123.svg" crc="4269975368" seo="true" ref="featured"/>
     <file name="pasted svg 123_poster_.png" crc="31629455" ref="featured"/>
   </folder>
-  <file name="index.html" crc="468765438" seo="true" mt="1480485187045" redirect="true"/>
-  <file name="bible-readings.html" crc="4126017773" seo="true" mt="1480487553493" redirect="true"/>
-  <file name="sermon.html" crc="292718852" seo="true" mt="1480487553493" redirect="true"/>
-  <file name="events.html" crc="400227346" seo="true" mt="1480487553493" redirect="true"/>
-  <file name="discipleship.html" crc="358719011" seo="true" mt="1480487553493" redirect="true"/>
-  <file name="openlife.html" crc="334932121" seo="true" mt="1480487553493" redirect="true"/>
-  <file name="last-weeks-br.html" crc="3803534384" seo="true" mt="1480487553493" redirect="true"/>
-  <file name="evangelism.html" crc="310702167" seo="true" mt="1480487553493" redirect="true"/>
-  <file name="bible-questions.html" crc="3945533192" seo="true" mt="1480487553493" redirect="true"/>
-  <file name="keys-to-discipleship.html" crc="485452980" seo="true" mt="1480487553493" redirect="true"/>
-  <file name="tithing.html" crc="4068496193" seo="true" mt="1480487553493" redirect="true"/>
-  <file name="featured.html" crc="3794753084" seo="true" mt="1480487553493" redirect="true"/>
+  <file name="index.html" crc="4185531941" seo="true" mt="1480488219267" redirect="true"/>
+  <file name="bible-readings.html" crc="386493653" seo="true" mt="1480488168437" redirect="true"/>
+  <file name="sermon.html" crc="263440106" seo="true" mt="1480488168443" redirect="true"/>
+  <file name="events.html" crc="3848341675" seo="true" mt="1480488168437" redirect="true"/>
+  <file name="discipleship.html" crc="4184894419" seo="true" mt="1480488168437" redirect="true"/>
+  <file name="openlife.html" crc="244031366" seo="true" mt="1480488168437" redirect="true"/>
+  <file name="last-weeks-br.html" crc="96352925" seo="true" mt="1480488168437" redirect="true"/>
+  <file name="evangelism.html" crc="478334334" seo="true" mt="1480488168437" redirect="true"/>
+  <file name="bible-questions.html" crc="331524610" seo="true" mt="1480488168437" redirect="true"/>
+  <file name="keys-to-discipleship.html" crc="364538647" seo="true" mt="1480488168437" redirect="true"/>
+  <file name="tithing.html" crc="316569123" seo="true" mt="1480488168437" redirect="true"/>
+  <file name="featured.html" crc="3791319434" seo="true" mt="1480488168437" redirect="true"/>
 </manifest>
