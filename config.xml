@@ -20,7 +20,6 @@
 
 
 
-
     
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
@@ -146,6 +145,7 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
+<gap:platform name="winphone" />
 
 </widget>
 
