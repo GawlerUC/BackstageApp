@@ -1,58 +1,59 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="backstage.gawleruniting.org.au" resolutions="1x" timestamp="1480840870829">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="backstage.gawleruniting.org.au" resolutions="1x" timestamp="1480912737416">
   <folder name="css">
     <file name="site_global.css" crc="517215909"/>
-    <file name="master_master.css" crc="4200611759" ref="openlife:sermon:last-weeks-br:events:discipleship:bible-readings:evangelism:tithing:bible-questions:featured:resources:abcd"/>
+    <file name="master_master.css" crc="4108129033" ref="openlife:sermon:last-weeks-br:events:discipleship:bible-readings:evangelism:tithing:featured:resources:abcd:going-deeper:sermoncoming-soon"/>
     <file name="openlife.css" crc="389403474" ref="openlife"/>
-    <file name="sermon.css" crc="259665147" ref="sermon"/>
-    <file name="last-weeks-br.css" crc="436316513" ref="last-weeks-br"/>
-    <file name="events.css" crc="341497575" ref="events"/>
-    <file name="index.css" crc="3921222090" ref="index"/>
-    <file name="discipleship.css" crc="334082573" ref="discipleship"/>
-    <file name="bible-readings.css" crc="368160431" ref="bible-readings"/>
-    <file name="nomq_preview_master_master.css" crc="2080246" ref="last-weeks-br:bible-readings:events:discipleship:evangelism:tithing:bible-questions:sermon:featured:abcd"/>
-    <file name="evangelism.css" crc="4209034831" ref="evangelism"/>
-    <file name="tithing.css" crc="3929332875" ref="tithing"/>
-    <file name="bible-questions.css" crc="397584217" ref="bible-questions"/>
-    <file name="featured.css" crc="4142893620" ref="featured"/>
-    <file name="master_abcd-master.css" crc="4242659416" ref="d:b:a:c"/>
+    <file name="sermon.css" crc="368399172" ref="sermon"/>
+    <file name="last-weeks-br.css" crc="4107930751" ref="last-weeks-br"/>
+    <file name="events.css" crc="286710474" ref="events"/>
+    <file name="index.css" crc="221415058" ref="index"/>
+    <file name="discipleship.css" crc="4081981489" ref="discipleship"/>
+    <file name="bible-readings.css" crc="4256360581" ref="bible-readings"/>
+    <file name="nomq_preview_master_master.css" crc="4200611759" ref="last-weeks-br:bible-readings:events:evangelism:tithing:sermon:abcd:going-deeper:resources:discipleship:featured:openlife:sermoncoming-soon"/>
+    <file name="evangelism.css" crc="509788180" ref="evangelism"/>
+    <file name="tithing.css" crc="4161589896" ref="tithing"/>
+    <file name="featured.css" crc="3837345386" ref="featured"/>
+    <file name="master_abcd-master.css" crc="4239640769" ref="d:b:a:c"/>
     <file name="nomq_preview_master_abcd-master.css" crc="3824530138" ref="d:b:a:c"/>
-    <file name="d.css" crc="390103256" ref="d"/>
+    <file name="d.css" crc="3829722956" ref="d"/>
     <file name="nomq_d.css" crc="431158325" ref="d"/>
     <file name="resources.css" crc="3913410059" ref="resources"/>
-    <file name="b.css" crc="4217364599" ref="b"/>
+    <file name="b.css" crc="147765129" ref="b"/>
     <file name="nomq_b.css" crc="3868591038" ref="b"/>
-    <file name="abcd.css" crc="122087674" ref="abcd"/>
+    <file name="abcd.css" crc="403608627" ref="abcd"/>
     <file name="nomq_abcd.css" crc="241971139" ref="abcd"/>
-    <file name="a.css" crc="294438575" ref="a"/>
+    <file name="a.css" crc="4283948476" ref="a"/>
     <file name="nomq_a.css" crc="433772916" ref="a"/>
-    <file name="c.css" crc="4054519814" ref="c"/>
+    <file name="c.css" crc="3902958162" ref="c"/>
     <file name="nomq_c.css" crc="536469828" ref="c"/>
-    <file name="nomq_featured.css" crc="3824530138" ref="featured"/>
     <file name="master_master-blank.css" crc="3941640446" ref="start-ol"/>
-    <file name="start-ol.css" crc="4061224029" ref="start-ol"/>
+    <file name="start-ol.css" crc="4144277139" ref="start-ol"/>
+    <file name="going-deeper.css" crc="449091192" ref="going-deeper"/>
+    <file name="nomq_featured.css" crc="3824530138" ref="featured"/>
+    <file name="sermoncoming-soon.css" crc="4250805279" ref="sermoncoming-soon"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="museutils.js" crc="163421577" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="whatinput.js" crc="86476730" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="museconfig.js" crc="36584860" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:sermon:abcd:a:openlife:start-ol"/>
-    <file name="webpro.js" crc="3848665353" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="touchswipe.js" crc="404375771" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="require.js" crc="244322403" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="museutils.js" crc="163421577" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="whatinput.js" crc="86476730" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="museconfig.js" crc="36584860" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:sermon:abcd:a:start-ol"/>
+    <file name="webpro.js" crc="3848665353" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="require.js" crc="244322403" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
     <file name="jquery.museresponsive.js" crc="4146931122" ref="abcd:a:b:c:d"/>
   </folder>
   <folder name="images">
-    <file name="logo-transparent.png" crc="4265353680" ref="index:sermon:abcd:a:openlife:start-ol"/>
-    <file name="pasted-svg-109665x109.svg" crc="3939634654" seo="true" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="pasted svg 109665x109_poster_.png" crc="4011030576" ref="index:openlife"/>
-    <file name="pasted-svg-109665x1092.svg" crc="223350899" seo="true" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="pasted svg 109665x109_poster_2.png" crc="4111301327" ref="index:openlife"/>
-    <file name="pasted-svg-109665x1093.svg" crc="4186153669" seo="true" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:bible-questions:tithing:featured:abcd:a:b:c:d:resources:start-ol"/>
-    <file name="pasted svg 109665x109_poster_3.png" crc="4204566227" ref="index:openlife"/>
+    <file name="logo-transparent.png" crc="4265353680" ref="index:sermon:abcd:a:start-ol"/>
+    <file name="pasted-svg-109665x109.svg" crc="3939634654" seo="true" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="pasted svg 109665x109_poster_.png" crc="4011030576" ref="index"/>
+    <file name="pasted-svg-109665x1092.svg" crc="223350899" seo="true" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="pasted svg 109665x109_poster_2.png" crc="4111301327" ref="index"/>
+    <file name="pasted-svg-109665x1093.svg" crc="4186153669" seo="true" ref="index:bible-readings:sermon:events:discipleship:openlife:last-weeks-br:evangelism:tithing:featured:abcd:a:b:c:d:resources:start-ol:going-deeper:sermoncoming-soon"/>
+    <file name="pasted svg 109665x109_poster_3.png" crc="4204566227" ref="index"/>
     <file name="11393210_10204525766567563_4099118256549237103_n.jpg" crc="335307237" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="abcd:a:b:c:d"/>
     <file name="pasted-svg-220.svg" crc="340148032" seo="true" ref="featured"/>
@@ -75,23 +76,28 @@
     <file name="pasted svg 127559x22_poster_.png" crc="3833789300" ref="start-ol"/>
     <file name="pasted-svg-85039x85.svg" crc="3790923892" seo="true" ref="start-ol"/>
     <file name="pasted svg 85039x85_poster_.png" crc="4027795132" ref="start-ol"/>
+    <file name="pasted-svg-11824x7.svg" crc="348884458" seo="true" ref="evangelism"/>
+    <file name="pasted svg 11824x7_poster_.png" crc="395369332" ref="evangelism"/>
+    <file name="pasted-svg-624x232.svg" crc="4042319376" seo="true" ref="sermoncoming-soon"/>
+    <file name="pasted svg 624x232_poster_.png" crc="102143596" ref="sermoncoming-soon"/>
   </folder>
-  <file name="index.html" crc="3760577571" seo="true" mt="1480522645566" redirect="true"/>
-  <file name="bible-readings.html" crc="446991040" seo="true" mt="1480522645598" redirect="true"/>
-  <file name="sermon.html" crc="281070343" seo="true" mt="1480522645722" redirect="true"/>
-  <file name="events.html" crc="430305701" seo="true" mt="1480522645766" redirect="true"/>
-  <file name="discipleship.html" crc="29085831" seo="true" mt="1480523307731" redirect="true"/>
-  <file name="openlife.html" crc="114094197" seo="true" mt="1480569565944" redirect="true"/>
-  <file name="last-weeks-br.html" crc="440113136" seo="true" mt="1480522645730" redirect="true"/>
-  <file name="evangelism.html" crc="4137854215" seo="true" mt="1480522645630" redirect="true"/>
-  <file name="bible-questions.html" crc="332096940" seo="true" mt="1480522645734" redirect="true"/>
-  <file name="tithing.html" crc="3995467519" seo="true" mt="1480522645714" redirect="true"/>
-  <file name="featured.html" crc="3789264493" seo="true" mt="1480522645578" redirect="true"/>
-  <file name="abcd.html" crc="436630307" seo="true" mt="1480522988444" redirect="true"/>
-  <file name="a.html" crc="3943200182" seo="true" mt="1480522907441" redirect="true"/>
-  <file name="b.html" crc="4111313002" seo="true" mt="1480522845122" redirect="true"/>
-  <file name="c.html" crc="348255762" seo="true" mt="1480522645774" redirect="true"/>
-  <file name="d.html" crc="4239936813" seo="true" mt="1480522743751" redirect="true"/>
-  <file name="resources.html" crc="7711000" seo="true" mt="1480563403547" redirect="true"/>
-  <file name="start-ol.html" crc="492464723" seo="true" mt="1480580089326" redirect="true"/>
+  <file name="index.html" crc="4241903614" seo="true" mt="1480905728098" redirect="true"/>
+  <file name="bible-readings.html" crc="4269209205" seo="true" mt="1480910639171" redirect="true"/>
+  <file name="sermon.html" crc="3833325700" seo="true" mt="1480910596799" redirect="true"/>
+  <file name="events.html" crc="356607171" seo="true" mt="1480905802945" redirect="true"/>
+  <file name="discipleship.html" crc="401119245" seo="true" mt="1480905802945" redirect="true"/>
+  <file name="openlife.html" crc="74291294" seo="true" mt="1480910669799" redirect="true"/>
+  <file name="last-weeks-br.html" crc="4187306149" seo="true" mt="1480905802945" redirect="true"/>
+  <file name="evangelism.html" crc="3944636606" seo="true" mt="1480910568549" redirect="true"/>
+  <file name="tithing.html" crc="4049877322" seo="true" mt="1480905802945" redirect="true"/>
+  <file name="featured.html" crc="398717856" seo="true" mt="1480905802945" redirect="true"/>
+  <file name="abcd.html" crc="313487456" seo="true" mt="1480905802945" redirect="true"/>
+  <file name="a.html" crc="431186462" seo="true" mt="1480905827778" redirect="true"/>
+  <file name="b.html" crc="432082345" seo="true" mt="1480905827778" redirect="true"/>
+  <file name="c.html" crc="83715224" seo="true" mt="1480905827778" redirect="true"/>
+  <file name="d.html" crc="3916924677" seo="true" mt="1480905827778" redirect="true"/>
+  <file name="resources.html" crc="3886489682" seo="true" mt="1480910607341" redirect="true"/>
+  <file name="start-ol.html" crc="3925341785" seo="true" mt="1480905815785" redirect="true"/>
+  <file name="going-deeper.html" crc="4177341714" seo="true" mt="1480905802945" redirect="true"/>
+  <file name="sermoncoming-soon.html" crc="4149922797" seo="true" mt="1480910657048" redirect="true"/>
 </manifest>
