@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="backstage.gawleruniting.org.au" resolutions="1x" timestamp="1480920639382">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="backstage.gawleruniting.org.au" resolutions="1x" timestamp="1480921354207">
   <folder name="css">
     <file name="site_global.css" crc="517215909"/>
     <file name="master_master.css" crc="4200611759" ref="openlife:sermon:last-weeks-br:events:discipleship:bible-readings:evangelism:tithing:featured:resources:abcd:going-deeper:sermoncoming-soon:i-am-statements:jesus-prayer"/>
@@ -7,9 +7,9 @@
     <file name="last-weeks-br.css" crc="3875511968" ref="last-weeks-br"/>
     <file name="events.css" crc="286710474" ref="events"/>
     <file name="index.css" crc="221415058" ref="index"/>
-    <file name="discipleship.css" crc="3869603643" ref="discipleship"/>
-    <file name="bible-readings.css" crc="3946614323" ref="bible-readings"/>
-    <file name="nomq_preview_master_master.css" crc="3824530138" ref="last-weeks-br:bible-readings:events:evangelism:tithing:sermon:abcd:going-deeper:resources:discipleship:featured:openlife:sermoncoming-soon:i-am-statements:jesus-prayer"/>
+    <file name="discipleship.css" crc="3925486419" ref="discipleship"/>
+    <file name="bible-readings.css" crc="215417595" ref="bible-readings"/>
+    <file name="nomq_preview_master_master.css" crc="3824530138" ref="last-weeks-br:events:evangelism:tithing:sermon:abcd:going-deeper:featured:openlife:sermoncoming-soon:i-am-statements:jesus-prayer"/>
     <file name="evangelism.css" crc="509788180" ref="evangelism"/>
     <file name="tithing.css" crc="4161589896" ref="tithing"/>
     <file name="featured.css" crc="3837345386" ref="featured"/>
@@ -17,7 +17,7 @@
     <file name="nomq_preview_master_abcd-master.css" crc="3824530138" ref="d:b:a:c"/>
     <file name="d.css" crc="3829722956" ref="d"/>
     <file name="nomq_d.css" crc="431158325" ref="d"/>
-    <file name="resources.css" crc="3841208593" ref="resources"/>
+    <file name="resources.css" crc="4089362754" ref="resources"/>
     <file name="b.css" crc="147765129" ref="b"/>
     <file name="nomq_b.css" crc="3868591038" ref="b"/>
     <file name="abcd.css" crc="153799638" ref="abcd"/>
@@ -91,10 +91,10 @@
     <file name="pasted svg 900x450_poster_3.png" crc="391416729" ref="resources"/>
   </folder>
   <file name="index.html" crc="4241903614" seo="true" mt="1480905728098" redirect="true"/>
-  <file name="bible-readings.html" crc="4078767278" seo="true" mt="1480915651995" redirect="true"/>
+  <file name="bible-readings.html" crc="3786247973" seo="true" mt="1480921020027" redirect="true"/>
   <file name="sermon.html" crc="3833325700" seo="true" mt="1480910596799" redirect="true"/>
   <file name="events.html" crc="356607171" seo="true" mt="1480905802945" redirect="true"/>
-  <file name="discipleship.html" crc="3817994208" seo="true" mt="1480915515318" redirect="true"/>
+  <file name="discipleship.html" crc="3758462150" seo="true" mt="1480921046699" redirect="true"/>
   <file name="openlife.html" crc="161513424" seo="true" mt="1480915417068" redirect="true"/>
   <file name="last-weeks-br.html" crc="3981630885" seo="true" mt="1480915661385" redirect="true"/>
   <file name="evangelism.html" crc="3944636606" seo="true" mt="1480910568549" redirect="true"/>
@@ -105,7 +105,7 @@
   <file name="b.html" crc="432082345" seo="true" mt="1480905827778" redirect="true"/>
   <file name="c.html" crc="83715224" seo="true" mt="1480905827778" redirect="true"/>
   <file name="d.html" crc="3916924677" seo="true" mt="1480905827778" redirect="true"/>
-  <file name="resources.html" crc="3817593845" seo="true" mt="1480920594561" redirect="true"/>
+  <file name="resources.html" crc="219945323" seo="true" mt="1480920998183" redirect="true"/>
   <file name="start-ol.html" crc="3925341785" seo="true" mt="1480905815785" redirect="true"/>
   <file name="going-deeper.html" crc="259510715" seo="true" mt="1480915705080" redirect="true"/>
   <file name="sermoncoming-soon.html" crc="4149922797" seo="true" mt="1480910657048" redirect="true"/>
