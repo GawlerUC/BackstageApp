@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "273968319012",
+    "firebase_url": "https://backstage-gawler.firebaseio.com",
+    "project_id": "backstage-gawler",
+    "storage_bucket": "backstage-gawler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273968319012:android:61446b4b492cb1c9",
+        "android_client_info": {
+          "package_name": "au.org.gawleruniting.backstage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273968319012-3ee6s88leofc026trc91lrsoo9hn8o0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5lkSfR2D5XKCsEmYN_dQGd9zcDV4GKGE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
