@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html class="nojs html css_verticalspacer" lang="en-US">
  <head>
-
+<script>
+    window.onload = function()
+    {
+    document.addEventListener("deviceready", init, false);
+    }
+    function init()
+    {codePush.sync();
+        //PhoneGap is fully loaded and you can access any of the PhoneGap APIs now safely
+    }
+</script>
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2017.0.1.363"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
