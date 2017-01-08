@@ -46,7 +46,7 @@
     value="true" />
 <preference
     name="SplashScreenDelay"
-    value="5000" />
+    value="3000" />
 
 <feature name="SplashScreen" >
     <param
@@ -86,7 +86,15 @@
     <plugin name="cordova-plugin-splashscreen" />
     <plugin name="cordova-plugin-vibration" />
     <plugin name="cordova-plugin-firebase" spec="0.1.18" />
+<plugin name="cordova-plugin-code-push" />
 
+
+<platform name="android">
+    <preference name="CodePushDeploymentKey" value="ioik-Uj0_yf4d46lpU_vyiFOUVySNJOzP3qSM" />
+</platform>
+<platform name="ios">
+    <preference name="CodePushDeploymentKey" value="gDEB4ckp_ojRNG3mhUfHGWE_-8BiNJOzP3qSM" />
+</platform>
 
 
 
